@@ -11,8 +11,9 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-  const two = 2
+  
 function add2(n) {
+  const two = 2
   return parseInt(n) + two
 
   // Feel free to move things around!
